@@ -1,4 +1,12 @@
-## Hi there 👋
+ Hi there! 👋
+Welcome to my GitHub profile! Here's what I do:
+
+- 🌱 I’m currently learning arduino .
+- 💻 I’m proficient in: Python
+
+
+ 
+
 
 <!--
 **eyosi-asre/eyosi-asre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
