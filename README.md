@@ -1,7 +1,7 @@
  Hi there! 👋
 Welcome to my GitHub profile! Here's what I do:
 
-- 🌱 I’m currently learning arduino .
+- 🌱 I’m currently learning flutter.
 - 💻 I’m proficient in: Python
 
 
